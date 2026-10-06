@@ -1,3 +1,4 @@
+*.smod
 
 # Compiled Static libraries
 *.lai
