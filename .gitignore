@@ -1,3 +1,4 @@
+*.dll
 
 # Fortran module files
 *.mod
