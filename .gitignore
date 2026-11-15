@@ -1,3 +1,4 @@
+*.gch
 *.pch
 
 # Compiled Dynamic libraries
